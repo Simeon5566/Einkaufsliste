@@ -9,4 +9,4 @@ img {
 width: 50%
 height: auto;
 }
-<img src="galaxy.jpg" alt="Sternenstaub">
+<img src="galaxy.jpg" alt="Sternenstaub ">
