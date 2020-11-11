@@ -5,3 +5,8 @@
 <p>Heimtort: Schwäbisch Hall</p>
 
 <p>Besuchte Schulen: <b>Waldorfschule</b></p>
+img {
+width: 50%
+height: auto;
+}
+<img src="galaxy.jpg" alt="Sternenstaub">
